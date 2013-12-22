@@ -1,6 +1,6 @@
 // Author:       Harshal Khandare
 // Description:  This program solves the Eight Queen puzzle
-//				 by placing eight queens on a chessboard such that no queen attacks any other queen.              
+//		 by placing eight queens on a chessboard such that no queen attacks any other queen.              
 //
 // Revisions:   v1.0
 // $Log:        EightQueens.cpp,v1.0 $
